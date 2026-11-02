@@ -1,0 +1,8 @@
+{
+  "name": "AeroForces: 2D Earth Flight Simulator",
+  "description": "To-scale 2D simulation of a commercial airliner flying above the curvature of Earth with controls for the four forces of flight: Thrust, Drag, Lift, and Weight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
